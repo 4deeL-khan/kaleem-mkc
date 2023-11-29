@@ -87,7 +87,7 @@ logo =  """ \033[1;31m
 \033[0;92mGithub    \033[0;96mFUCK MR ZUKKO
 \033[0;92mFACEBOOK  \033[0;94mSULMAN KABIR X.X.X
 \033[0;94m────────────────────────────────────────────────────────
-\033[0;91mNOTICE ! :  BEWAFA BOLTI PUBLIC APUN KO 😈👿❤️‍🔥
+\033[0;91mNOTICE ! :  BEWAFA BOLTI PUBLIC APUN KO ok😈👿❤️‍🔥
 \033[0;94m────────────────────────────────────────────────────────
 """
 loop = 0
